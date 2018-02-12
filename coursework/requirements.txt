@@ -45,6 +45,8 @@ pexpect==4.4.0
 pickleshare==0.7.4
 prettytable==0.7.2
 prompt-toolkit==1.0.15
+psycopg2==2.7.4
+psycopg2-binary==2.7.4
 ptyprocess==0.5.2
 pyasn1==0.1.9
 pycurl==7.43.0
